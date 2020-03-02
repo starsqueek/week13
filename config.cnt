@@ -1,0 +1,9 @@
+Predefined
+	 Counter	 5	 0	 -1	 down
+	 Counter	 5	 10	 1	  up 
+	 Counter	 0	 10	 1	  UP 
+	 Counter	 10	 0	 -1	 DOWN
+RunSet
+	 Counter	 5	 10	 1	 up
+	 Counter	 5	 0	 -1	 down
+End
